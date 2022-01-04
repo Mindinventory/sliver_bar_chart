@@ -1,5 +1,5 @@
 name: sliver_bar_chart
-description: A package that support the Bar Chart in a Flutter Sliver. This Package allow us to add Bar Chart in Sliver a portion of a scrollable area and its set a Bar Chart as a Header on Slivers Scroll.
+description: A package that supports Bar Chart in a Flutter Sliver. This Package allow us to add Bar Chart in Sliver and its set a Bar Chart as a Header on Slivers Scroll.
 version: 0.0.1
 homepage: https://github.com/Mindinventory/sliver_bar_chart
 

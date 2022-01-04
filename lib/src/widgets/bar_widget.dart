@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../models/chart_data.dart';
 import '../painters/bar_chart_painter.dart';
 
+/// Bar Widget that paint bar chart using custom painter
 class BarChartWidget extends StatefulWidget {
   const BarChartWidget({
     required this.minHeight,
