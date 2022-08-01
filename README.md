@@ -26,13 +26,12 @@
 <a href="https://pub.dev/packages/sliver_bar_chart"><img src="https://img.shields.io/pub/v/sliver_bar_chart?color=as&label=sliver_bar_chart&logo=as1&logoColor=blue&style=social"></a>
 <a href="https://github.com/Mindinventory/sliver_bar_chart"><img src="https://img.shields.io/github/stars/Mindinventory/sliver_bar_chart?style=social" alt="MIT License"></a>
 
-A package that supports Bar Chart in a Flutter Sliver. This Package allow us to add Bar Chart in
-Sliver and its set a Bar Chart as a Header on Slivers Scroll.
+It is Sliver component. Bar chart work with sliver animation on expand and collapse. It is an independent component that allows you to set data for the chart with the configuration of Sliver.
 
 ## Key Features
 
-* easy way to add Bar Chart in a Sliver.
-* used to set a Bar Chart as a Sliver Header.
+* easy way to add bar chart in a Sliver.
+* used to set a bar chart as a Sliver Header.
 
 # Preview
 
